@@ -30,7 +30,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array = ["un", "deux", "am"]
-  index_number = ([2])
+  index_number = 2
   array([2])
 end
 
